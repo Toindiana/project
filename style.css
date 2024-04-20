@@ -51,7 +51,10 @@ img {
   justify-content: space-between;
   flex-wrap: wrap;
 }
-.gpd img {
+.gpt_1 {
+  justify-content: center;
+}
+.gpt img {
   width: 49%;
-  margin: 5px 0;
+  margin: 2px 0;
 }
